@@ -3,7 +3,7 @@ public class BreakAndContinue {
         //break and continue
 
 
-        int i = 0;
+        int i = 0; //initialsie  
         while(true){
             if(i==3){
 
